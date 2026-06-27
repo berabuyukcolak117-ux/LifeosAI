@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS AI",
+  "description": "Dünyanın En Premium Yapay Zeka Destekli Yaşam Yönetim Uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
